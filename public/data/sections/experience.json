@@ -1,0 +1,152 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        },
+
+        "fr": {
+            "title": "Expérience",
+            "title_long_prefix": "Résumé de mon",
+            "title_long": "Parcours **Professionel**"
+        },
+
+        "ko": {
+            "title": "경험",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**직업적** 경험"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                
+                {
+                    "icon": {
+                        "img": "images/pictures/gaec.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2021",
+                        "end": "09/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Frontend ** Engineer",
+                            "info": "Ghana Atomic Energy Commission",
+                            "text": "<p>As a key member of the development team, I have led the creation and optimization of web applications by focusing on the following areas:</p> <ul><li>Developing reusable React.js components to ensure easy integration into future projects and enhance scalability.</li><li>Creating and maintaining complex web forms with robust validation and error handling, improving data accuracy and user input management.</li><li>Building secure and scalable APIs with Node.js to optimize data flow and enhance overall system efficiency.</li><li>Working in an agile environment with Scrum methodology to ensure timely project delivery, iterative improvements, and efficient resource allocation.</li><li>Collaborating closely with clients to understand their website and application requirements, developing customized strategies that increased project efficiency by 20% and aligned development with business goals.</li><li>Enhancing the performance and scalability of web applications through efficient state management with Redux and React Hooks.</li><li>Optimizing database interactions and queries to improve application speed and reduce load times, ensuring a smooth user experience.</li></ul> <p class='mt-3'>By focusing on efficiency, scalability, and seamless user experiences, I ensure that the products we build meet both client and business objectives while adhering to best practices in software development.</p>",
+                            "tags": ["JavaScript", "React", "Node.js", "Typescript", "REST", "Docker"]
+                        },
+                        "es": {
+                            "title": "Ingeniero **Full-Stack**",
+                            "info": "Coursera",
+                            "text": "Participé en la mejora del sitio web de Coursera al implementar nuevas funcionalidades y optimizar la experiencia del usuario, utilizando tecnologías de frontend y backend para asegurar un funcionamiento sin problemas.",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "Ingénieur **Full-Stack**",
+                            "info": "Coursera",
+                            "text": "J'ai contribué à l'amélioration du site Web de Coursera en ajoutant de nouvelles fonctionnalités et en optimisant l'expérience utilisateur, en utilisant des technologies frontend et backend pour garantir un fonctionnement fluide.",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "**풀스택** 엔지니어",
+                            "info": "코세라",
+                            "text": "Coursera 웹사이트를 개선하기 위해 새로운 기능을 추가하고 사용자 경험을 최적화했습니다. 원활한 기능을 보장하기 위해 프론트엔드와 백엔드 기술을 모두 활용했습니다.",
+                            "tags": null
+                        }
+                    }
+                },
+               
+                {
+                    "icon": {
+                        "img": "images/pictures/logo.jpeg",
+                        "fa": "fa-brands fa-apple",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "09/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Frontend ** Engineer",
+                            "info": "Salvington Technology",
+                            "text": "<p>Leading a team of developers to design and implement frontend solutions for innovative web applications, with a focus on:</p><ul><li>Creating responsive, user-centered web applications using HTML, CSS, TypeScript, JavaScript, and React.</li><li>Implementing RESTful APIs to efficiently query data from external product databases.</li><li>Developing dynamic UI components using React, Redux, and Hooks to ensure seamless user experiences and optimized rendering.</li><li>Leveraging container technologies such as Docker to streamline and optimize deployment processes.</li><li>Designing and maintaining complex web forms with robust validation and error handling to ensure data accuracy and manage user input effectively.</li><li>Utilizing TypeScript to enhance code scalability, maintainability, and type safety, ensuring higher quality code and fewer runtime errors.</li><li>Integrating TypeScript with React and Redux for better state management and a more structured, type-safe codebase.</li></ul> <p class='mt-3'>Together, we ensure that the applications we build remain efficient, scalable, and easy to maintain while delivering exceptional user experiences.</p>",
+                            "tags": ["React Js", "PostgreSQL", "GraphQL", "RESTful APIs", "Docker","HTML/CSS/JS","Node.js","Typescript"]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Backend Senior**",
+                            "info": "Apple Inc.",
+                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
+                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        },
+                        "fr": {
+                            "title": "Développeur **Backend Senior**",
+                            "info": "Apple Inc.",
+                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
+                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        },
+                        "ko": {
+                            "title": "**수석 백엔드** 개발자",
+                            "info": "애플 주식회사",
+                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
+                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/eng.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/01/2020",
+                        "end": "07/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**IT Administrator** Intern",
+                            "info": "Electricity Company of Ghana ",
+                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
+                            "tags": ["Java", "AWS", "REST", "Docker"]
+                        },
+                        "es": {
+                            "title": "Ingeniero **Backend**",
+                            "info": "Adobe Inc.",
+                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia en el procesamiento de datos mediante funciones en la nube.",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "Ingénieur **Backend**",
+                            "info": "Adobe Inc.",
+                            "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "**백엔드** 엔지니어",
+                            "info": "어도비 주식회사",
+                            "text": "Adobe Creative Cloud를 위한 강력한 백엔드 시스템 개발에 기여하였으며, 타사 서비스 통합과 클라우드 기능을 통해 데이터 처리 효율성을 향상시켰습니다.",
+                            "tags": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

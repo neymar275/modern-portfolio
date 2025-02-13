@@ -1,0 +1,118 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "es": {
+            "title": "Educación",
+            "title_long_prefix": "Esta es mi",
+            "title_long": "**Formación** Educativa"
+        },
+
+        "fr": {
+            "title": "Éducation",
+            "title_long_prefix": "C'est mon",
+            "title_long": "**Contexte** Éducatif"
+        },
+
+        "ko": {
+            "title": "교육",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**교육적** 배경"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/University_of_Ghana.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "August 2017",
+                        "end": "November 2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor** in Computer Computer Engineering",
+                            "info": "University of Ghana",
+                            "text": "Obtained a Bachelor's degree in Computer Engineering with a focus on algorithms, data structures, software engineering, and web development. Gained practical experience through a variety of programming projects and intensive boot camps.",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "**Licenciatura** en Ciencias de la Computación",
+                            "info": "University of Ghana",
+                            "text": "Obtuve una licenciatura en Ciencias de la Computación, con un enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de varios proyectos de programación y campamentos de entrenamiento.",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "**Licence** en Informatique",
+                            "info": "University of Ghana",
+                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, l'ingénierie logicielle et le développement web. Acquis une expérience pratique à travers divers projets de programmation et camps de formation.",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "**학사** 컴퓨터 과학",
+                            "info": "University of Ghana",
+                            "text": "알고리즘, 데이터 구조, 소프트웨어 공학 및 웹 개발에 중점을 둔 컴퓨터 과학 학사 학위를 취득했습니다. 다양한 프로그래밍 프로젝트와 부트캠프를 통해 실무 경험을 쌓았습니다.",
+                            "tags": null
+                        }
+                    }
+                },
+
+                
+
+                
+
+                {
+                    "icon": {
+                        "img": "images/pictures/opokuware.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "06/01/2014",
+                        "end": "07/21/2017"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Wassce** in General Science",
+                            "info": "Opoku Ware School",
+                            "text": "<p>Studied the foundations of science that covered all the natural science fields including :</p></p>",
+                            "tags": ["Chemistry", "Physics", "Elective Mathematics", "Biology"]
+                        },
+                        "es": {
+                            "title": "**Doctorado** en Ciencias de la Computación",
+                            "info": "Universidad de Harvard",
+                            "text": "<p>Cursando un doctorado con enfoque en aprendizaje profundo y sus aplicaciones en el mundo real, específicamente en:</p> <ul><li>Visión por Computadora</li><li>Investigación innovadora en IA</li><li>Desarrollo de nuevos algoritmos para el reconocimiento de imágenes</li></ul> <p class='mt-3'>Involucrado en investigaciones de vanguardia y contribuyendo al avance de la IA a través de publicaciones en conferencias de primer nivel.</p>",
+                            "tags": ["Aprendizaje Profundo", "Visión por Computadora", "Investigación IA", "Algoritmos"]
+                        },
+                        "fr": {
+                            "title": "**Doctorat** en Informatique",
+                            "info": "Université de Harvard",
+                            "text": "<p>En cours de doctorat avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Vision par Ordinateur</li><li>Recherche IA innovante</li><li>Développement de nouveaux algorithmes de reconnaissance d'images</li></ul> <p class='mt-3'>Impliqué dans des recherches de pointe et contribuant à l'avancement de l'IA par des publications dans des conférences de renom.</p>",
+                            "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
+                        },
+                        "ko": {
+                            "title": "컴퓨터 과학 **박사**",
+                            "info": "하버드 대학교",
+                            "text": "<p>딥러닝과 그 실제 응용 분야에 중점을 둔 박사 과정을 수행 중입니다. 특히 다음에 초점을 맞추고 있습니다:</p> <ul><li>컴퓨터 비전</li><li>혁신적인 AI 연구</li><li>이미지 인식을 위한 새로운 알고리즘 개발</li></ul> <p class='mt-3'>최첨단 연구에 참여하고, 유명 학회에서 발표하여 AI 기술 발전에 기여하고 있습니다.</p>",
+                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
